@@ -1,0 +1,2 @@
+c:\users\jonatious\documents\visual studio 2012\Projects\slnBackup_copyToProd\slnBackup_copyToProd\bin\Debug\slnBackup_copyToProd.exe.config
+C:\sandbox\CourseWareSandbox\slnBackup_copyToProd\slnBackup_copyToProd\bin\Debug\slnBackup_copyToProd.exe.config

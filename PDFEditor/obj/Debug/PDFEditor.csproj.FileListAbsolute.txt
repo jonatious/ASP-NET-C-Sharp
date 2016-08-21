@@ -1,0 +1,14 @@
+c:\users\jonatious\documents\visual studio 2012\Projects\PDFEditor\PDFEditor\bin\Debug\PDFEditor.exe.config
+C:\sandbox\CourseWareSandbox\slnPDFEditor\PDFEditor\bin\Debug\PDFEditor.exe.config
+C:\sandbox\CourseWareSandbox\slnPDFEditor\PDFEditor\bin\Debug\PDFEditor.exe
+C:\sandbox\CourseWareSandbox\slnPDFEditor\PDFEditor\bin\Debug\PDFEditor.pdb
+C:\sandbox\CourseWareSandbox\slnPDFEditor\PDFEditor\bin\Debug\itextsharp.dll
+C:\sandbox\CourseWareSandbox\slnPDFEditor\PDFEditor\bin\Debug\itextsharp.pdfa.dll
+C:\sandbox\CourseWareSandbox\slnPDFEditor\PDFEditor\obj\Debug\PDFEditor.csprojResolveAssemblyReference.cache
+C:\sandbox\CourseWareSandbox\slnPDFEditor\PDFEditor\obj\Debug\PDFEditor.exe
+C:\sandbox\CourseWareSandbox\slnPDFEditor\PDFEditor\obj\Debug\PDFEditor.pdb
+C:\sandbox\CourseWareSandbox\slnPDFEditor\PDFEditor\bin\Debug\PDFEditor.exe.manifest
+C:\sandbox\CourseWareSandbox\slnPDFEditor\PDFEditor\bin\Debug\PDFEditor.application
+C:\sandbox\CourseWareSandbox\slnPDFEditor\PDFEditor\bin\Debug\itextsharp.xml
+C:\sandbox\CourseWareSandbox\slnPDFEditor\PDFEditor\obj\Debug\PDFEditor.exe.manifest
+C:\sandbox\CourseWareSandbox\slnPDFEditor\PDFEditor\obj\Debug\PDFEditor.application

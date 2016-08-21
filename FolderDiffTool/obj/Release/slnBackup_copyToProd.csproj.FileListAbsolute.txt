@@ -1,0 +1,16 @@
+C:\sandbox\CourseWareSandbox\slnBackup_copyToProd\slnBackup_copyToProd\bin\Release\slnBackup_copyToProd.exe.config
+C:\sandbox\CourseWareSandbox\slnBackup_copyToProd\slnBackup_copyToProd\bin\Release\slnBackup_copyToProd.exe
+C:\sandbox\CourseWareSandbox\slnBackup_copyToProd\slnBackup_copyToProd\bin\Release\slnBackup_copyToProd.pdb
+C:\sandbox\CourseWareSandbox\slnBackup_copyToProd\slnBackup_copyToProd\bin\Release\itextsharp.dll
+C:\sandbox\CourseWareSandbox\slnBackup_copyToProd\slnBackup_copyToProd\bin\Release\itextsharp.pdfa.dll
+C:\sandbox\CourseWareSandbox\slnBackup_copyToProd\slnBackup_copyToProd\obj\Release\slnBackup_copyToProd.exe
+C:\sandbox\CourseWareSandbox\slnBackup_copyToProd\slnBackup_copyToProd\obj\Release\slnBackup_copyToProd.pdb
+C:\sandbox\CourseWareSandbox\slnBackup_copyToProd\slnBackup_copyToProd\obj\Release\slnBackup_copyToProd.csprojResolveAssemblyReference.cache
+C:\sandbox\CourseWareSandbox\slnBackup_copyToProd\slnBackup_copyToProd\bin\Release\slnBackup_copyToProd.exe.manifest
+C:\sandbox\CourseWareSandbox\slnBackup_copyToProd\slnBackup_copyToProd\bin\Release\slnBackup_copyToProd.application
+C:\sandbox\CourseWareSandbox\slnBackup_copyToProd\slnBackup_copyToProd\obj\Release\slnBackup_copyToProd.exe.manifest
+C:\sandbox\CourseWareSandbox\slnBackup_copyToProd\slnBackup_copyToProd\obj\Release\slnBackup_copyToProd.application
+C:\sandbox\CourseWareSandbox\slnBackup_copyToProd\slnBackup_copyToProd\bin\Release\Json.dll
+C:\sandbox\CourseWareSandbox\slnBackup_copyToProd\slnBackup_copyToProd\bin\Release\Newtonsoft.Json.dll
+C:\sandbox\CourseWareSandbox\slnBackup_copyToProd\slnBackup_copyToProd\bin\Release\Json.pdb
+C:\sandbox\CourseWareSandbox\slnBackup_copyToProd\slnBackup_copyToProd\bin\Release\Newtonsoft.Json.xml
